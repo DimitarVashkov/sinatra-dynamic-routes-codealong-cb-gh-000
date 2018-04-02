@@ -24,7 +24,7 @@ class App < Sinatra::Base
     @result = @num1 * @num2
 
     erb :result
-    
+
   end
   # Code your final two routes here:
 
